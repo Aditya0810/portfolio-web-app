@@ -1,2 +1,2 @@
 # portfolio-web-app
-This repository contains the motivation, design and implementation of a showcase of my personal projects, and professional capabilities.
+This repository outlines the design of my own web portfolio and contains the implementation of it showcasing my personal projects, and professional capabilities.
